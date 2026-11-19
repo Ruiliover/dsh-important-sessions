@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Important sessions",
+    "description": "Collect sessions into categorized favorites in the sidebar: a starred session lands in the default category, and you can tick more categories such as Daily questions or Work (multiple allowed). The panel filters by category, every session row has a star, and categories can be created, renamed and deleted.",
+    "detail": "README.md"
+  }
+}

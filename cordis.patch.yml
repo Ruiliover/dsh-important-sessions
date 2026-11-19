@@ -1,0 +1,5 @@
+# The host half is intentionally empty. The browser half declared by
+# package.json `dsh.client` owns the sidebar panel and the star controls.
+- insert:
+    - id: important-sessions
+      name: dsh-important-sessions
